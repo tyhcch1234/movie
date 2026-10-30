@@ -1,0 +1,24 @@
+{
+  "site": {
+    "title": "影片庫",
+    "tagline": "AI 重構畫面．短片作品集",
+    "owner": "tyhcch1234"
+  },
+  "videos": [
+    {
+      "id": "garlay-fire-1996",
+      "title": "嘉利大廈大火（1996）",
+      "subtitle": "60 秒粵語紀錄短片",
+      "date": "2026-10-30",
+      "eventDate": "1996-11-20",
+      "duration": 60,
+      "ratio": "9:16",
+      "tags": ["香港史", "火警", "粵語旁白"],
+      "description": "1996 年 11 月 20 日，佐敦彌敦道 233 號嘉利大廈五級火警：升降機更換工程燒焊火屑引燃二樓大堂，大廈無自動灑水系統，防煙門未關形成煙囪效應，大火燒 21 小時，41 死 80 傷。1997 年調查委員會報告促成香港消防條例改革。",
+      "src": "videos/garlay-fire-1996/garlay-fire-1996.mp4",
+      "poster": "videos/garlay-fire-1996/poster.jpg",
+      "note": "畫面為 AI 重構，非真實影像。資料：維基百科／1997 嘉利大廈火災調查委員會報告。",
+      "size": "41 MB"
+    }
+  ]
+}
